@@ -1,0 +1,2 @@
+# Assuntos Fundamentais para Desenvolvedores Javascript
+Repositório criado com o intuito de relembrar e aprender conceitos importantes da linguagem. Irei detalhar os assuntos por meio desse README e criarei pastas específicas para cada tópico. Dessa forma, pretendo preencher todos os assuntos fundamentais e básicos para desenvolver em Javascript.
